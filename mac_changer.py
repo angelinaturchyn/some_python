@@ -4,8 +4,9 @@
 
 import subprocess
 
-interface = " eth0"
-new_address = "00:22:33:44:55:66"
+
+interface = input(" interface > ")
+new_address = input(" new MAC > ")
 
 
 subprocess.call("ifconfig", shell=True)

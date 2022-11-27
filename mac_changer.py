@@ -1,9 +1,13 @@
 #!/usr/bin/env/python
 
 
-
+import optparse
 import subprocess
 
+parser = optparse.OptionParser()
+
+parser.add_option("-i", "--interface", dest="interface", help="Interface to change mac address")
+parser.parse_args()
 
 interface = input(" interface > ")
 new_address = input(" new MAC > ")

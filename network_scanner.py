@@ -12,4 +12,4 @@ def scan(ip):
     print(answered)
 
 
-scan("10.0.0.1/24)
+scan(ip)

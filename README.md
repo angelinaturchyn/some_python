@@ -4,20 +4,10 @@
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [MAC Address Changer](#mac-address-changer)
-  - [Network Scanner](#network-scanner)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
-This repository contains two essential network utilities:
+This repository contains two network tools:
 
 1. **MAC Address Changer**: A tool to change the MAC address of your network interfaces.
 2. **Network Scanner**: A tool to scan your local network and identify connected devices.
@@ -92,7 +82,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new Pull Request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
